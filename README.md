@@ -6,11 +6,8 @@ Web Developer
 
 With a love for code, transforming concepts into elegant web solutions!
 
-* 🌍  I'm based in Ahmedabad, Gujarat
+* 🌍  I'm based in Ahmedabad, Gujarat, India
 * ✉️  You can contact me at [jainikpatel1743@gmail.com](mailto:jainikpatel1743@gmail.com)
-
-<a href="https://www.github.com/Jainik-1743" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Jainik-1743?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
